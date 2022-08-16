@@ -5,6 +5,3 @@ To sense colour on the SenseHAT is easy - simply hold up something in front of t
 If you hold up a red teddy bear, the colour sensor will detect that the light in front of it is primarily red. If you point it at the sky, it will detect a higher intensity of light and indicate that it is blue. Pointing the light sensor at the grass will show that there is mostly green light in the environment. 
 
 When the sensor is polled, these colour values are stored in a list as the `red`, `blue`, `green` and `clear` values. You can use this data in your code by storing it as a variable.
-
-
-
